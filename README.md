@@ -1,0 +1,2 @@
+# Localtogit
+local -to -git
